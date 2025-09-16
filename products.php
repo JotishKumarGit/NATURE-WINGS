@@ -130,7 +130,7 @@
                     <div class="card h-100 shadow-sm">
                         <img src="img/Fritillaria.jpeg" style="height: 260px" class="card-img-top" alt="MONGRA" />
                         <div class="card-body text-center">
-                            <h5 class="card-title mb-3">Wild Garlic</h5>
+                            <h5 class="card-title mb-3">Cordyceps Sinesis</h5>
                             <div class="d-flex justify-content-center gap-2">
                                 <a href="#" class="btn btn-primary" data-bs-toggle="modal"
                                     data-bs-target="#enquiryModal">Enquiry</a>
